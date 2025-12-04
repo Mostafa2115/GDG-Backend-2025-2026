@@ -1,0 +1,13 @@
+<?php
+/*
+abstract
+and
+array
+as
+break
+case
+catch
+class
+const
+continue
+*/
