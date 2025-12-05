@@ -11,9 +11,3 @@ echo (int)$c2 . "\n";
 $c3 = (int)(($a - $b) / 10);
 echo $c3 . "\n";
 
-$c5 = (int)(($a - $b) % 10);
-echo $c5 . "\n";
-
-
-$c5 = (int)(($a - $b) % 10);
-echo $c5 . "\n";
